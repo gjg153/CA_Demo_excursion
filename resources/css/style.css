@@ -4,9 +4,8 @@ body {
 header a {
     size: 16px;
     color: aquamarine;
-    
 }
-.head, .video {
+.head, .video, .foot {
     text-align: center;
 }
 header h1 {
@@ -24,9 +23,19 @@ h2 {
     font-weight: 300;
     font-size: 42px;
     color: white;
+    text-align: center;
 }
 p{
     font-family: Verdana;
     font-size: 21px;
     color: gray;
+}
+footer a {
+    size: 16px;
+    color: aquamarine;
+}
+.copyright {
+    text-align: right;
+    color: gray;
+    font-family: Verdana;
 }
